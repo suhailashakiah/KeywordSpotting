@@ -3,7 +3,7 @@ Keyword spotting for trigger words in speech recognition systems
 
 Project in progress. Current kaggle score is 0.81 
 
-### Code Heirarchi 
+### Code Hierarchi 
 
 1. Collecting files and organizing data, making noise samples.ipynb
 2. Creating noised data.ipynb
