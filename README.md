@@ -15,3 +15,5 @@ Kaggle score is 0.83 (Leaderboard rank 274/1290)
 6. Neural network .ipynb
 7. Kaggle testing set performance.ipynb
 
+The model is provided as a json string in 'model12_json' for reconstruction. The trained weights are provided in 'model12_weights.h5'.
+
