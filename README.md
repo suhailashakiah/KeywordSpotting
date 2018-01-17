@@ -5,7 +5,8 @@ Used the Google Speech Commands Dataset. The task is to classify the words into 
 
 Accuracy achieved: 85.6% (Placed in top 30% - Rank: 383/1315)
 
-<img width="576" alt="loss and confusion matrix" src="https://user-images.githubusercontent.com/18056877/35028082-2bb3c32e-fb22-11e7-96c6-971217ed8e06.png">
+![model](https://user-images.githubusercontent.com/18056877/35067210-29c81f36-fba1-11e7-81a1-87dac1691738.png)
+<img width="576" alt="loss and confusion matrix" src="https://user-images.githubusercontent.com/18056877/35067212-2df6e8a8-fba1-11e7-99e0-3808a86230b9.png">
 
 The kaggle competition winning model achieved an accuracy of 91%.
 
