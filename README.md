@@ -5,7 +5,7 @@ Used the Google Speech Commands Dataset. The task is to classify the words into 
 
 Accuracy achieved: 85.6%
 
-<img width="576" alt="loss and confusion matrix" src="https://user-images.githubusercontent.com/18056877/35026268-02ab4902-fb18-11e7-8a80-bcb889fadfc5.png">
+<img width="576" alt="loss and confusion matrix" src="https://user-images.githubusercontent.com/18056877/35028082-2bb3c32e-fb22-11e7-96c6-971217ed8e06.png">
 
 ### Methodology: 
 
