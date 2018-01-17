@@ -5,6 +5,8 @@ Used the Google Speech Commands Dataset. The task is to classify the words into 
 
 Accuracy achieved: 85.6% (Placed in top 30% - Rank: 383/1315)
 
+<img width="576" alt="loss and confusion matrix" src="https://user-images.githubusercontent.com/18056877/35067373-acda92aa-fba1-11e7-9452-a1fec7f2291d.png">
+
 The kaggle competition winning model achieved an accuracy of 91%.
 
 ### Code Hierarchi 
@@ -26,5 +28,7 @@ FFT window: 2048
 
 2. Convolutional neural network: 
 
-Note: The data was augmented by time shifting and adding noise as described in the data augmentation jupyter notebooks. 
+![model](https://user-images.githubusercontent.com/18056877/35067415-ce308202-fba1-11e7-9372-110f84143bbc.png)
+
+Note: The data was augmented by random time shifting between 1 and 200 ms, and adding noise as described in the data augmentation jupyter notebooks. 
 
