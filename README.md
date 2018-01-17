@@ -5,6 +5,8 @@ Used the Google Speech Commands Dataset. The task is to classify the words into 
 
 Accuracy achieved: 85.6%
 
+<img width="576" alt="loss" src="https://user-images.githubusercontent.com/18056877/35026130-272fbd86-fb17-11e7-8ba0-9b11ec9dc903.png">
+
 <img width="576" alt="normalized_cm" src="https://user-images.githubusercontent.com/18056877/35025961-43ae89fc-fb16-11e7-819e-a5015e301f2e.png">
 
 ### Code Hierarchi 
