@@ -15,6 +15,8 @@ Hop length: 320,
 FFT window: 2048
 
 2. Convolutional neural network: 
+
+
 ![model](https://user-images.githubusercontent.com/18056877/35027717-3d22990c-fb20-11e7-8b87-f6e1c4bfdd42.png)
 
 
