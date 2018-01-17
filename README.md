@@ -10,11 +10,12 @@ Accuracy achieved: 85.6%
 ### Methodology: 
 
 1. MFCC parameters: 
-Number of MFCC features: 128
-Hop length: 320
+Number of MFCC features: 128, 
+Hop length: 320, 
 FFT window: 2048
 
 2. Convolutional neural network: 
+![model](https://user-images.githubusercontent.com/18056877/35027717-3d22990c-fb20-11e7-8b87-f6e1c4bfdd42.png)
 
 
 Note: The data was augmented by time shifting and adding noise as described in the data augmentation jupyter notebooks. 
