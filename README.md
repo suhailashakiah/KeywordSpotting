@@ -3,9 +3,11 @@ Keyword spotting for trigger words in speech recognition systems.
 
 Used the Google Speech Commands Dataset. The task is to classify the words into 12 classes: yes, no, up, down, left, right, on, off, stop, go, silence, unknown
 
-Accuracy achieved: 85.6%
+Accuracy achieved: 85.6% (Placed in top 30% - Rank: 383/1315)
 
 <img width="576" alt="loss and confusion matrix" src="https://user-images.githubusercontent.com/18056877/35028082-2bb3c32e-fb22-11e7-96c6-971217ed8e06.png">
+
+The kaggle competition winning model achieved an accuracy of 91%.
 
 ### Code Hierarchi 
 
