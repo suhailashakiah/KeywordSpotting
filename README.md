@@ -5,9 +5,19 @@ Used the Google Speech Commands Dataset. The task is to classify the words into 
 
 Accuracy achieved: 85.6%
 
-<img width="576" alt="loss" src="https://user-images.githubusercontent.com/18056877/35026130-272fbd86-fb17-11e7-8ba0-9b11ec9dc903.png">
+<img width="576" alt="loss and confusion matrix" src="https://user-images.githubusercontent.com/18056877/35026268-02ab4902-fb18-11e7-8a80-bcb889fadfc5.png">
 
-<img width="576" alt="normalized_cm" src="https://user-images.githubusercontent.com/18056877/35026166-53a65c08-fb17-11e7-9931-e9d6baa257f0.png">
+### Methodology: 
+
+1. MFCC parameters: 
+Number of MFCC features: 128
+Hop length: 320
+FFT window: 2048
+
+2. Convolutional neural network: 
+
+
+Note: The data was augmented by time shifting and adding noise as described in the data augmentation jupyter notebooks. 
 
 ### Code Hierarchi 
 
