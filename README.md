@@ -14,8 +14,5 @@ Accuracy achieved: 85.6%
 3. Data augmentation - Time shifting noised and unnoised data.ipynb	
 4. Augmenting classes 0 to 9.ipynb
 5. MFCC EXTRACTION.ipynb
-6. Neural network .ipynb
+6. Neural network.ipynb
 7. Kaggle testing set performance.ipynb
-
-The model is provided as a json string in 'model12_json' for reconstruction. The trained weights are provided in 'model12_weights.h5'.
-
